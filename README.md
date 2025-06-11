@@ -29,12 +29,6 @@ This is a simple simulation of the **Indian Railway Ticket Booking System** buil
 - Basic console I/O (`Scanner`)
 
 ---
-## 🧠 OOP Concepts Used
-
-- ✅ **Encapsulation**: Passenger data (name, age, gender, berth) is bundled inside a `Passenger` class.
-- ✅ **Composition**: The `TicketSystem` class manages a list and queue of `Passenger` objects.
-  
----
 
 ## 🧠 Constraints Simulated
 
